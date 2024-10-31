@@ -1,0 +1,36 @@
+ul.tzpost-default,
+ul.tzpost-feature{
+    list-style: none;
+}
+.tzpost-default .tzpost_item img,
+.tzpost-feature .tzpost_item_fr img{
+    float:left;
+    width:30%;
+    height:auto;
+    margin-right:20px;
+}
+.tzpost-excerpt-default h4{
+    clear: none;
+}
+.clr{
+    clear:both;
+}
+
+.tzpost-feature .feature-left{
+    float:left;
+    width:48%;
+}
+.tzpost-feature .tzpost_item_feature img{
+    width:100%;
+}
+.tzpost-feature  .tzpost_item_fr{
+    float:left;
+    width:100%;
+    margin-bottom: 25px;
+}
+.tzpost-feature .feature-right{
+    padding-left: 50%;
+}
+.tzpost_item_fr::after{
+    clear: both;
+}

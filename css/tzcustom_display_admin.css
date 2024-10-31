@@ -1,0 +1,107 @@
+.tzpost_use{
+    width:100%;
+    line-height:30px;
+    padding:10px 15px;
+}
+
+.metabox-holder {
+    width:72%;
+}
+.tzpost-col-right {
+    width:24%;
+    float:right;
+    position:relative;
+    background-color:#fff;
+    margin-top:30px;
+    padding:10px 20px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+.tzpost-col-right li {
+    list-style:inside;
+    color:#0074a2;
+    text-decoration:none;
+}
+.tzpost-col-right li a{
+    text-decoration: none;
+}
+.tzpost-col-right ul,
+.tzpost-col-right h3{
+    padding-left: 15px;
+}
+.tzpost-col-right h2{
+    text-transform: uppercase;
+    padding:0;
+    margin:0;
+    font-size:20px;
+}
+.form-table th {
+    font-size:12px;
+}
+fieldset {
+    border:1px solid #999999;
+    margin-bottom:20px;
+    padding:0px 5px 10px 20px;
+}
+.tzpost-legend {
+    background-color:#999;
+    background-image:url(../images/up.png);
+    background-repeat:no-repeat;
+    background-position: 122px 6px;
+    color:#FFF;
+    border:1px solid #999;
+    padding:4px 10px;
+    font-size:12px;
+    margin-left:10px;
+    cursor:pointer;
+    border-radius:4px;
+}
+.postbox .inside {
+    position:relative;
+    margin: 15px 25px;
+}
+.wp-admin select {
+    font-size:12px;
+}
+.wp-admin select[multiple], #wpcontent select[multiple] {
+    height: auto;
+}
+.form-table, .form-table td, .form-table th, .form-table td p, .form-wrap label {
+    font-size:12px;
+}
+.tzpost-tzpost-label {
+    width:200px;
+}
+.ajx-sts {
+    color: #298A08;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.postbox .down {
+    background-image:url(../images/downb.png);
+    background-repeat:no-repeat;
+    background-position: 4px 10px;
+}
+.postbox .up {
+    background-image:url(../images/upb.png);
+    background-repeat:no-repeat;
+    background-position: 4px 10px;
+}
+.tzpost-highlight {
+    border: 1px solid #7AD03A !important;
+}
+.tzpost-hide {
+    display:none;
+}
+.tzpost-fade {
+    color:#D1D0CE;
+}
+#adminmenu .current .wp-menu-image img{
+    opacity:1;
+}
+.tzpost-display fieldset{
+    border:1px solid #dedede;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
